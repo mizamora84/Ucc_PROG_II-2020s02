@@ -1,5 +1,5 @@
 Proceso ejercicio4
-	//defino variable
+	//defino variables
 	Definir  a, b Como Entero
 	Definir s Como Logico
 	a<- 10

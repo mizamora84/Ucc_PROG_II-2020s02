@@ -1,5 +1,5 @@
 Proceso ejercicio1
-	//defino variable
+	//defino variables
 	Definir  a, b, c, d   Como Entero
 	Definir e Como Logico
 	
